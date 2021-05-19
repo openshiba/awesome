@@ -1,4 +1,4 @@
-# awesome
+# Such Shiba, Much Awesome
 A collection of awesome things in the Shiba ecosystem.
 
 ## Official Links
