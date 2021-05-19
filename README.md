@@ -1,6 +1,12 @@
 # Such Shiba, Much Awesome
 A collection of awesome things in the Shiba ecosystem.
 
+#### Contributing
+Shiba is a community supported project, if you'd like to add any links, or make any edits please feel free to [submit a pull request](https://github.com/openshiba/awesome/pulls).
+
+#### Issue & Suggestions
+Have problems, questions or suggestions? Please [open a new issue](https://github.com/openshiba/awesome/issues).
+
 ## Official Links
 - [Official Shiba Token Website](https://www.shibatoken.com)
 - [Reddit](https://www.reddit.com/r/SHIBArmy/)
