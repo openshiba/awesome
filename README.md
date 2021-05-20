@@ -29,7 +29,6 @@ Have problems, questions or suggestions? Please [open a new issue](https://githu
 
 ---
 
-# List of Unawesome 😠
-## Know Scams
+## Shib Army
 - [SHIB Army Hit List](https://docs.google.com/spreadsheets/d/109rtn6uE1LAbgPwZc1NX1Gjc0EfGhq_BAf7aX7ztOIw/edit#gid=0)
   - We need your help to report these are they're found to get the scammer taken down, and keep the community as safe as possible.
